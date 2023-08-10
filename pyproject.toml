@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "cripto-util-lib"
+version = "0.1.0"
+description = ""
+authors = ["juanMaAV92 <juanmanuel.armero@gmail.com>"]
+readme = "README.md"
+packages = [{include = "cripto_util_lib"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pydantic = "^2.1.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
