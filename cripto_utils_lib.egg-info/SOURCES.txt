@@ -1,5 +1,11 @@
 pyproject.toml
 setup.py
+constants/ErrorCodes.py
+constants/__init__.py
+constants/enums/ExchangeEnum.py
+constants/enums/LogLevelEnum.py
+constants/enums/OrderTypeEnum.py
+constants/enums/__init__.py
 cripto_utils_lib.egg-info/PKG-INFO
 cripto_utils_lib.egg-info/SOURCES.txt
 cripto_utils_lib.egg-info/dependency_links.txt
