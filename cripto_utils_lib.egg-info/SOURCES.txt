@@ -1,0 +1,6 @@
+pyproject.toml
+setup.py
+cripto_utils_lib.egg-info/PKG-INFO
+cripto_utils_lib.egg-info/SOURCES.txt
+cripto_utils_lib.egg-info/dependency_links.txt
+cripto_utils_lib.egg-info/top_level.txt
