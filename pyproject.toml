@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "criptoUtilLib"
-version = "0.1.1"
+name = "cripto_utils_lib"
+version = "0.1.2"
 description = ""
 authors = ["juanMaAV92 <juanmanuel.armero@gmail.com>"]
 readme = "README.md"
-packages = [{include = "src", from = "."}]
+packages = [{include = "cripto_utils_lib", from = "."}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
