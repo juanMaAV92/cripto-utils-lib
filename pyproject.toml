@@ -4,7 +4,7 @@ version = "0.1.0"
 description = ""
 authors = ["juanMaAV92 <juanmanuel.armero@gmail.com>"]
 readme = "README.md"
-packages = [{include = "cripto_util_lib"}]
+packages = [{include = "src", from = "."}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
