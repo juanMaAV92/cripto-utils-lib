@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "criptoUtilLib"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["juanMaAV92 <juanmanuel.armero@gmail.com>"]
 readme = "README.md"
